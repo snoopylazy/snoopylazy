@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [hr-office](https://gitlab.com/ambel-cash-develop-team/hr-admin-office.git)
+- 🔭 I’m currently working on Hr System
 
 - 🌱 I’m currently learning **Vue, Node, MongoDB**
 
-- 👯 I’m looking to collaborate on [mission-letter](https://gitlab.com/ambel-cash-develop-team/letter-mission-project.git)
+- 👯 I’m looking to collaborate on Mession request letter
 
 - 🤝 I’m looking for help with [not yet](https://github.com/snoopylazy/Restaurant.git)
 
