@@ -146,10 +146,56 @@ const monthy: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snoopylazy&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58A6FF&point=1F6FEB" />
 </div>
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snoopylazy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+### 🎯 Development Milestones
+[![Years Badge](https://badges.pufler.dev/years/snoopylazy?style=for-the-badge&color=blue&logo=github)](https://github.com/snoopylazy)
+[![Repos Badge](https://badges.pufler.dev/repos/snoopylazy?style=for-the-badge&color=green&logo=github)](https://github.com/snoopylazy)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/snoopylazy?style=for-the-badge&color=orange&logo=github)](https://github.com/snoopylazy)
+
+### 🌟 Key Accomplishments
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/🎯-Vue.js%20Expert-4FC08D?style=for-the-badge" />
+<br><sub>Mastering Vue.js ecosystem</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/🏢-HR%20System-FF6B6B?style=for-the-badge" />
+<br><sub>Building enterprise solutions</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/🇰🇭-Cambodia%20Dev-FFD93D?style=for-the-badge" />
+<br><sub>Representing Cambodia</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📱-Mobile%20Apps-6BCF7F?style=for-the-badge" />
+<br><sub>Flutter & native development</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/🎮-Gundam%20Builder-A8E6CF?style=for-the-badge" />
+<br><sub>Precision in code & models</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/☕-Coffee%20Powered-8B4513?style=for-the-badge" />
+<br><sub>Best code at 2 AM</sub>
+</td>
+</tr>
+</table>
+
+### 🏅 GitHub Trophies
+<div align="center">
+
+🥇 **Code Contributor** • 🥈 **Repository Creator** • 🥉 **Community Builder**
+
+**2024 Goals:** Vue.js Mastery • HR System Launch • Open Source Contributions
+
+</div>
+
 </div>
 
 ## 🎯 2024 Goals & Learning Path
